@@ -1,0 +1,13 @@
+﻿Build started 21-04-2011 00:13:23.
+     1>Project "F:\Virtual_File_System\Virtual_File_System\Virtual_File_System.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>f:\virtual_file_system\virtual_file_system\source.cpp(632): warning C4715: 'CloseFileByName' : not all control paths return a value
+     1>f:\virtual_file_system\virtual_file_system\source.cpp(739): warning C4715: 'LseekFile' : not all control paths return a value
+     1>f:\virtual_file_system\virtual_file_system\source.cpp(547): warning C4715: 'rm_File' : not all control paths return a value
+     1>Done Building Project "F:\Virtual_File_System\Virtual_File_System\Virtual_File_System.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
